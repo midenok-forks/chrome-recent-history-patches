@@ -628,11 +628,9 @@ function uiEditItems(type){
 
 function alertUser(msg, action){
   if(action == 'close'){
-    $('alert-holder').setStyle('display', 'none');
     $('alert-yes').destroy();
     $('alert-no').destroy();
   }else if(action == 'open'){
-    $('alert-holder').setStyle('display', 'block');
     $('alert-text').set('text', msg);
     new Element('input', {type: 'button', id: 'alert-yes', value: returnLang('yes')}).inject('alert');
     new Element('input', {type: 'button', id: 'alert-no', value: returnLang('no')}).inject('alert');
@@ -1131,27 +1129,6 @@ function pinned(){
 
 // Alert user history
 
-function alertUserHistory(pm){
-  if($('alert-holder').getStyle('display') == 'block'){
-    $('alert-holder').setStyle('display', 'none');
-    $('alert-holder-loading').setStyle('margin-top', '-15px');
-    if(pm){
-      $('pacman-iframe').set('src', '');
-      $('pacman-iframe').setStyle('display', 'none');
-    }
-  }else if($('alert-holder').getStyle('display') == 'none'){
-    $('alert-holder').setStyle('display', 'block');
-    if(pm){
-      $('pacman-iframe').set('src', 'pacman/index.html');
-      (function(){
-        if($('alert-holder').getStyle('display') == 'block'){
-          $('alert-holder-loading').setStyle('margin-top', '36px');
-          $('pacman-iframe').setStyle('display', 'block');
-        }
-      }).delay(3000);
-    }
-  }
-}
 
 
 // Date picker
@@ -1356,7 +1333,6 @@ function history(w, q){
   
     if(hi.length > 0){
     
-			alertUserHistory(false);
       
       for(i=0;i<=hi.length;i++){
         
@@ -1432,7 +1408,6 @@ function history(w, q){
             if(thisc.counter == rha.length){
               clearInterval(prh);
               //isBookmarked('#rh-views .item .link');
-              alertUserHistory(false);
               $(document.body).getElement('#rh-bar-uione input').set('checked', false);
               selectedItem = undefined;
               new Tips('.title', {className: 'tip-holder'});
@@ -1477,7 +1452,6 @@ function history(w, q){
             if(thisc.counter == rha.length){
               clearInterval(prh);
               //isBookmarked('#rh-views .item .link');
-              alertUserHistory(false);
               $(document.body).getElement('#rh-bar-uione input').set('checked', false);
               selectedItem = undefined;
               new Tips('.title', {className: 'tip-holder'});
@@ -1516,7 +1490,6 @@ function history(w, q){
         }
       
       }else{
-        alertUserHistory(false);
         $('calendar-total-value').set('text', '0');
         $(into).set('html', '<div class="no-results"><span>'+returnLang('noResults')+'</span></div>');
       }
@@ -1751,7 +1724,6 @@ function deleteHistoryItem(w){
     }
     if($$(into+' .checkbox input:checked').length > 0){
       $$('title').set('text', 'Deleting...');
-      alertUserHistory(true);
       $$(into+' .checkbox input:checked').each(function(el){
         el.getParent('div.item-holder').destroy();
         chrome.history.deleteUrl({url: el.get('value')});
@@ -1766,7 +1738,6 @@ function deleteHistoryItem(w){
           });
         }
         $$('title').set('text', 'History | Recent History');
-        alertUserHistory(true);
       });
     }
   }else if(w == 'range'){
@@ -1784,12 +1755,10 @@ function deleteHistoryItem(w){
     var endRange = new Date(dober['yyyy'], (dober['mm']-1), dober['dd'], 23, 59, 59, 999).getTime();
     if(startRange < endRange){
       $$('title').set('text', 'Deleting...');
-      alertUserHistory(true);
       chrome.history.deleteRange({startTime: startRange, endTime: endRange}, function(){
         calendar('yes', '');
         history('yes', '');
         $$('title').set('text', 'History | Recent History');
-        alertUserHistory(true);
       });
     }
   }
