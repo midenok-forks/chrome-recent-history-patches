@@ -1,0 +1,311 @@
+{
+   "12hour": {
+      "message": "12 Horas"
+   },
+   "24hour": {
+      "message": "24 Horas"
+   },
+   "AM": {
+      "message": "am"
+   },
+   "PM": {
+      "message": "pm"
+   },
+   "about": {
+      "message": "Sobre"
+   },
+   "aboutText": {
+      "message": "Esta extens\u00E3o exibe seu hist\u00F3rico recente, tabs fechadas recentemente, p\u00E1ginas mais visitadas e favoritos recentes em um pop-up."
+   },
+   "advanceOptions": {
+      "message": "Op\u00E7\u00F5es avan\u00E7adas"
+   },
+   "allHistory": {
+      "message": "Todo hist\u00F3rico"
+   },
+   "classic": {
+      "message": "Cl\u00E1ssico"
+   },
+   "click1": {
+      "message": "Abrir na tab atual"
+   },
+   "click2": {
+      "message": "Abir em nova tab"
+   },
+   "click3": {
+      "message": "Abrir em tab de fundo"
+   },
+   "currentHistory": {
+      "message": "Data atual"
+   },
+   "deleteItems": {
+      "message": "Apagar itens"
+   },
+   "fridayLetter": {
+      "message": "S"
+   },
+   "help1": {
+      "message": "Quantidade de itens hist\u00F3rico recente do pop-up"
+   },
+   "help10": {
+      "message": "URL da p\u00E1gina situada abaixo do t\u00EDtulo do item"
+   },
+   "help11": {
+      "message": "Separador situado no final dos itens"
+   },
+   "help12": {
+      "message": "Informa\u00E7\u00E3o extra pr\u00F3xmo a URL da p\u00E1gina (ex.: contador de visita e data)"
+   },
+   "help13": {
+      "message": "Se ativado ir\u00E1 mostrar uma cor diferente para cada item, como uma URL marcado ou fixado no hist\u00F3rico recente e, recentemente, lista fechada guiasSe ativado ir\u00E1 exibir cores diferentes para diferentes itens como URL favoritas ou fixas no hist\u00F3rico recente e lista de tabs fechadas recentemente"
+   },
+   "help16": {
+      "message": "As URLs que foram removirdas da lista de mais vistiadas. Clique na crus pr\u00F3ximo a URL para restaurar a lista."
+   },
+   "help17": {
+      "message": "As ULs de dom\u00EDnio que n\u00E3o ser\u00E3o exibidas no hist\u00F3rico recente, ex.: foobar.com"
+   },
+   "help18": {
+      "message": "O que ir\u00E1 acontecer quando houver clique em um item no menu pop-up"
+   },
+   "help2": {
+      "message": "Quantidade de tabs fechadas recentemente no pop-up"
+   },
+   "help20": {
+      "message": "Formato de Hora utilizado na extens\u00E3o"
+   },
+   "help21": {
+      "message": "Adicionar um \u00EDcone de compartilhamento ao lado dos itens no menu pop-up durante a edi\u00E7\u00E3o"
+   },
+   "help3": {
+      "message": "Quantidade de itens mais vistos no pop-up"
+   },
+   "help4": {
+      "message": "Quantidade de itens favoritados recentemente no pop-up"
+   },
+   "help5": {
+      "message": "Ordem que os itens ser\u00E3o exibidos"
+   },
+   "help6": {
+      "message": "Gerenciador de hist\u00F3rico a ser usado"
+   },
+   "help7": {
+      "message": "Formato de data a ser utilizado na extens\u00E3o"
+   },
+   "help8": {
+      "message": "Barra de pesquisa situada no topo do pop-up"
+   },
+   "loading": {
+      "message": "Carregando..."
+   },
+   "mainOptions": {
+      "message": "Op\u00E7\u00F5es principais"
+   },
+   "mondayLetter": {
+      "message": "S"
+   },
+   "mostVisited": {
+      "message": "Mais visitadas"
+   },
+   "no": {
+      "message": "N\u00E3o"
+   },
+   "noResults": {
+      "message": "N\u00E3o foram encontrados resultados"
+   },
+   "option1": {
+      "message": "Quantidades de Itens Recentes no Hist\u00F3rico"
+   },
+   "option10": {
+      "message": "Exibir URL"
+   },
+   "option11": {
+      "message": "Exibir Separador"
+   },
+   "option12": {
+      "message": "Exibir Informa\u00E7\u00E3o Extra"
+   },
+   "option13": {
+      "message": "Exibir Cores de Fundo"
+   },
+   "option14": {
+      "message": "\u00CDcone do Pop-up"
+   },
+   "option15": {
+      "message": "Largura do Pop-up"
+   },
+   "option16": {
+      "message": "Restaurar Itens Mais Vistos"
+   },
+   "option17": {
+      "message": "Filtrar Dom\u00EDnios do Hist\u00F3rico Recente"
+   },
+   "option18": {
+      "message": "A\u00E7\u00E3o do Clique Esquerdo do Mouse"
+   },
+   "option19": {
+      "message": "Tema do Pop-up"
+   },
+   "option2": {
+      "message": "Quantidade de Tabs Fechadas Recentemente"
+   },
+   "option20": {
+      "message": "Formato de Hora"
+   },
+   "option21": {
+      "message": "Favoritando Social"
+   },
+   "option3": {
+      "message": "Quantidade de Itens Mais Vistos"
+   },
+   "option4": {
+      "message": "Quantidade de Itens Favoritos Recentes"
+   },
+   "option5": {
+      "message": "Ordem de Pop-up"
+   },
+   "option6": {
+      "message": "P\u00E1gina de Hist\u00F3rico"
+   },
+   "option7": {
+      "message": "Formato de Data"
+   },
+   "option8": {
+      "message": "Exibir Barra de Pesquisa no Pop-up"
+   },
+   "option9": {
+      "message": "Pr\u00E9-visualizar"
+   },
+   "options": {
+      "message": "Op\u00E7\u00F5es"
+   },
+   "original": {
+      "message": "Original"
+   },
+   "pink": {
+      "message": "Pink"
+   },
+   "pinned": {
+      "message": "Fixos"
+   },
+   "recentBookmarks": {
+      "message": "Favoritos Recentes"
+   },
+   "recentHistory": {
+      "message": "Hist\u00F3rico Recente"
+   },
+   "recentlyClosedTabs": {
+      "message": "Tabs Fechadas Recentemente"
+   },
+   "saturdayLetter": {
+      "message": "S"
+   },
+   "saveOptions": {
+      "message": "Salvar op\u00E7\u00F5es"
+   },
+   "saved": {
+      "message": "Salvo!"
+   },
+   "saving": {
+      "message": "Salvando..."
+   },
+   "showAllHistory": {
+      "message": "Exibir todo hist\u00F3rico"
+   },
+   "styleOptions": {
+      "message": "Op\u00E7\u00F5es de estilo"
+   },
+   "successfullyInstalled": {
+      "message": "Sucesso ao Instalar/Atualizar"
+   },
+   "sundayLetter": {
+      "message": "S"
+   },
+   "thursdayLetter": {
+      "message": "Q"
+   },
+   "tip1": {
+      "message": "Pop-up: Pode-se abrir o item em uma tab de fundo clicando no item enquanto estiver pressionando ou segurando a tecla Ctrl."
+   },
+   "tip2": {
+      "message": "Pop-up: Ao clicar sobre as engrenagens ao lado do t\u00EDtulo voc\u00EA pode excluir, fixar e compartilhar itens."
+   },
+   "tip3": {
+      "message": "Op\u00E7\u00F5es: Pressione seta para cima ou para baixo para aumentar ou diminuir os valores do campo selecionado."
+   },
+   "tip4": {
+      "message": "Op\u00E7\u00F5es: Pressione Enter para adicionar o dom\u00EDnio no filtro."
+   },
+   "tip5": {
+      "message": "Hist\u00F3rico: Pode ser utilizado Shift para selecionar m\u00FAltiplos itens."
+   },
+   "tip6": {
+      "message": "Hist\u00F3rico: Use os bot\u00F5es na barra azul para manipular os itens exibidos no hist\u00F3rico."
+   },
+   "tips": {
+      "message": "Dicas de ajuda"
+   },
+   "totalHistoryItems": {
+      "message": "Total de itens no hist\u00F3rico:"
+   },
+   "translation1": {
+      "message": "Por favor, ajude a melhorar o Recente Hostory melhorando e fornecendo novas tradu\u00E7\u00F5es. Esta p\u00E1gina foi criada para tornar mais f\u00E1cil a tradu\u00E7\u00E3o desta extens\u00E3o."
+   },
+   "translation2": {
+      "message": "Por favor, siga os passo abaixo para traduzir o Recent History para seu idioma:"
+   },
+   "translation3": {
+      "message": "V\u00E1 para o final desta p\u00E1gina."
+   },
+   "translation4": {
+      "message": "Preencha o formul\u00E1rio correntamente."
+   },
+   "translation5": {
+      "message": "Traduza todas as 'mensagens' para seu idioma."
+   },
+   "translation6": {
+      "message": "Clique no bot\u00E3o 'Enviar'."
+   },
+   "translation7": {
+      "message": "Feito!"
+   },
+   "translations": {
+      "message": "Idiomas"
+   },
+   "tuesdayLetter": {
+      "message": "T"
+   },
+   "ui1": {
+      "message": "Fixar item?"
+   },
+   "ui2": {
+      "message": "Apagar item do hist\u00F3rico?"
+   },
+   "ui3": {
+      "message": "Apagar item das tabs fechadas recentemente?"
+   },
+   "ui4": {
+      "message": "Apagar favorito?"
+   },
+   "ui5": {
+      "message": "Apagar item da lista de mais visitados?"
+   },
+   "ui6": {
+      "message": "Desfixar?"
+   },
+   "version": {
+      "message": "Vers\u00E3o"
+   },
+   "visits": {
+      "message": "Visitas"
+   },
+   "wednesdayLetter": {
+      "message": "Q"
+   },
+   "whatsNew": {
+      "message": "O que h\u00E1 de novo?"
+   },
+   "yes": {
+      "message": "Sim"
+   }
+}

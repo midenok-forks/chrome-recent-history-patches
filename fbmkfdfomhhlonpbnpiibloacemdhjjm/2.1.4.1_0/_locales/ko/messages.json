@@ -1,0 +1,311 @@
+{
+   "12hour": {
+      "message": "12 \uC2DC\uAC04"
+   },
+   "24hour": {
+      "message": "24 \uC2DC\uAC04"
+   },
+   "AM": {
+      "message": "\uC624\uC804"
+   },
+   "PM": {
+      "message": "\uC624\uD6C4"
+   },
+   "about": {
+      "message": "\uD655\uC7A5\uAE30\uB2A5 \uC815\uBCF4"
+   },
+   "aboutText": {
+      "message": "\uD574\uB2F9 \uD655\uC7A5\uAE30\uB2A5\uC740 \uB2F9\uC2E0\uC758 \uCD5C\uADFC \uBC29\uBB38\uBAA9\uB85D, \uCD5C\uADFC \uB2EB\uD78C \uD0ED, \uC790\uC8FC \uBC29\uBB38\uD55C \uD398\uC774\uC9C0, \uCD5C\uADFC \uC990\uACA8\uCC3E\uAE30\uB4F1\uC758 \uBAA9\uB85D\uC744 \uC190\uC26C\uC6B4 \uD074\uB9AD \uD55C\uBC88\uC73C\uB85C \uD45C\uC2DC\uD558\uB3C4\uB85D \uD574\uC90D\uB2C8\uB2E4."
+   },
+   "advanceOptions": {
+      "message": "\uACE0\uAE09 \uC635\uC158"
+   },
+   "allHistory": {
+      "message": "\uBAA8\uB4E0 \uBC29\uBB38\uBAA9\uB85D"
+   },
+   "classic": {
+      "message": "\uACE0\uC804"
+   },
+   "click1": {
+      "message": "\uD604\uC7AC \uD0ED\uC73C\uB85C \uC5F4\uAE30"
+   },
+   "click2": {
+      "message": "\uC0C8 \uD0ED\uC73C\uB85C \uC5F4\uAE30"
+   },
+   "click3": {
+      "message": "\uBE44\uD65C\uC131 \uC0C8 \uD0ED\uC73C\uB85C \uC5F4\uAE30"
+   },
+   "currentHistory": {
+      "message": "\uD604\uC7AC \uB0A0\uC9DC"
+   },
+   "deleteItems": {
+      "message": "\uC544\uC774\uD15C \uC0AD\uC81C"
+   },
+   "fridayLetter": {
+      "message": "\uAE08"
+   },
+   "help1": {
+      "message": "\uD31D\uC5C5 \uD560 \uCD5C\uADFC \uBC29\uBB38\uBAA9\uB85D \uAC1C\uC218"
+   },
+   "help10": {
+      "message": "\uD398\uC774\uC9C0 URL\uC740 \uAC01 \uC544\uC774\uD15C \uC81C\uBAA9 \uC544\uB798\uCABD\uC5D0 \uC704\uCE58"
+   },
+   "help11": {
+      "message": "\uBD84\uB9AC\uC120\uC740 \uC544\uC774\uD15C \uC81C\uBAA9 \uC544\uB798\uCABD\uC5D0 \uC704\uCE58"
+   },
+   "help12": {
+      "message": "\uBD80\uAC00 \uC815\uBCF4\uB294 \uD398\uC774\uC9C0 URL \uC606\uCABD\uC5D0 \uC704\uCE58(\uC608\uC2DC: \uBC29\uBB38\uD69F\uC218, \uB0A0\uC9DC)"
+   },
+   "help13": {
+      "message": "\uD65C\uC131\uD654 \uD560 \uACBD\uC6B0 \uC990\uACA8\uCC3E\uAE30\uB418\uAC70\uB098, \uACE0\uC815\uB41C URL\uC774 \uCD5C\uADFC \uBC29\uBB38 \uBAA9\uB85D, \uCD5C\uADFC \uB2EB\uD600\uC9C4 \uD0ED \uBAA9\uB85D \uB0B4\uC5D0 \uD45C\uC2DC\uB420\uB54C \uB2E4\uB978 \uCEEC\uB7EC\uB85C \uD45C\uC2DC\uD574 \uAC15\uC870\uD568"
+   },
+   "help16": {
+      "message": "\uC790\uC8FC \uBC29\uBB38\uD55C \uBAA9\uB85D\uC73C\uB85C\uBD80\uD130 \uC81C\uAC70 \uC124\uC815\uB41C URL\uB4E4. \uD50C\uB7EC\uC2A4 \uBC84\uD2BC\uC744 \uD074\uB9AD\uD558\uBA74 \uD574\uB2F9 URL\uC774 \uAE30\uC874\uBAA9\uB85D\uC73C\uB85C \uBCF5\uAD6C\uB428"
+   },
+   "help17": {
+      "message": "\uB3C4\uBA54\uC778 \uC8FC\uC18C\uB4E4\uC911 \uCD5C\uADFC \uBC29\uBB38\uBAA9\uB85D\uC5D0 \uD45C\uC2DC\uB418\uC9C0 \uC54A\uB3C4\uB85D \uD560 URL \uBAA9\uB85D (\uC608\uC2DC:foobar.com)"
+   },
+   "help18": {
+      "message": "\uD31D\uC5C5\uCC3D \uC544\uC774\uD15C \uD074\uB9AD\uC2DC \uD0ED\uC758 \uD65C\uC131 \uBC29\uC2DD \uC120\uD0DD"
+   },
+   "help2": {
+      "message": "\uD31D\uC5C5 \uD560 \uCD5C\uADFC \uB2EB\uD78C \uD0ED \uAC1C\uC218"
+   },
+   "help20": {
+      "message": "\uD655\uC7A5\uAE30\uB2A5 \uB0B4\uC5D0\uC11C \uC0AC\uC6A9\uB420 \uC2DC\uAC04 \uD615\uC2DD"
+   },
+   "help21": {
+      "message": "\uD3B8\uC9D1\uC2DC \uACF5\uC720 \uC544\uC774\uCF58\uC744 \uD574\uB2F9 \uD31D\uC5C5 \uC544\uC774\uD15C \uC606\uCABD\uC5D0 \uCD94\uAC00\uD568"
+   },
+   "help3": {
+      "message": "\uD31D\uC5C5 \uD560 \uC790\uC8FC \uBC29\uBB38\uD55C \uBAA9\uB85D \uAC1C\uC218"
+   },
+   "help4": {
+      "message": "\uD31D\uC5C5 \uD560 \uCD5C\uADFC \uC990\uACA8\uCC3E\uAE30 \uAC1C\uC218"
+   },
+   "help5": {
+      "message": "\uC5F4\uAC70\uB41C \uC544\uC774\uD15C\uB4E4\uC774 \uBCF4\uC5EC\uC9C8 \uC6B0\uC120\uC21C\uC704"
+   },
+   "help6": {
+      "message": "\uBC29\uBB38\uBAA9\uB85D \uAD00\uB9AC\uC790 \uC120\uD0DD"
+   },
+   "help7": {
+      "message": "\uD655\uC7A5\uAE30\uB2A5 \uB0B4\uC5D0\uC11C \uC0AC\uC6A9\uB420 \uB0A0\uC9DC \uD615\uC2DD"
+   },
+   "help8": {
+      "message": "\uAC80\uC0C9\uBC14\uB294 \uD31D\uC5C5\uCC3D \uC0C1\uB2E8\uC5D0 \uC704\uCE58"
+   },
+   "loading": {
+      "message": "\uB85C\uB529\uC911..."
+   },
+   "mainOptions": {
+      "message": "\uBA54\uC778 \uC635\uC158"
+   },
+   "mondayLetter": {
+      "message": "\uC6D4"
+   },
+   "mostVisited": {
+      "message": "\uC790\uC8FC \uBC29\uBB38\uD55C \uBAA9\uB85D"
+   },
+   "no": {
+      "message": "\uC544\uB2C8\uC624"
+   },
+   "noResults": {
+      "message": "\uAC80\uC0C9 \uACB0\uACFC \uC5C6\uC74C"
+   },
+   "option1": {
+      "message": "\uCD5C\uADFC \uBC29\uBB38\uBAA9\uB85D \uAC1C\uC218"
+   },
+   "option10": {
+      "message": "URL \uBCF4\uC774\uAE30"
+   },
+   "option11": {
+      "message": "\uBD84\uB9AC\uC120 \uBCF4\uC774\uAE30"
+   },
+   "option12": {
+      "message": "\uBD80\uAC00\uC815\uBCF4 \uBCF4\uC774\uAE30"
+   },
+   "option13": {
+      "message": "\uBC30\uACBD\uC0C9 \uBCF4\uC774\uAE30"
+   },
+   "option14": {
+      "message": "\uD31D\uC5C5 \uC544\uC774\uCF58"
+   },
+   "option15": {
+      "message": "\uD31D\uC5C5 \uAC00\uB85C\uD3ED"
+   },
+   "option16": {
+      "message": "\uC790\uC8FC \uBC29\uBB38\uD55C \uBAA9\uB85D\uC73C\uB85C \uBCF5\uAD6C"
+   },
+   "option17": {
+      "message": "\uCD5C\uADFC \uBC29\uBB38\uBAA9\uB85D\uC5D0\uC11C \uD574\uB2F9 \uB3C4\uBA54\uC778 \uD544\uD130\uB9C1"
+   },
+   "option18": {
+      "message": "\uC67C\uCABD \uB9C8\uC6B0\uC2A4 \uD074\uB9AD\uC2DC \uB3D9\uC791"
+   },
+   "option19": {
+      "message": "\uD31D\uC5C5 \uD14C\uB9C8"
+   },
+   "option2": {
+      "message": "\uCD5C\uADFC \uB2EB\uD78C \uD0ED \uAC1C\uC218"
+   },
+   "option20": {
+      "message": "\uC2DC\uAC04 \uD615\uC2DD"
+   },
+   "option21": {
+      "message": "\uC18C\uC15C \uC990\uACA8\uCC3E\uAE30"
+   },
+   "option3": {
+      "message": "\uC790\uC8FC \uBC29\uBB38\uD55C \uBAA9\uB85D \uAC1C\uC218"
+   },
+   "option4": {
+      "message": "\uCD5C\uADFC \uC990\uACA8\uCC3E\uAE30 \uAC1C\uC218"
+   },
+   "option5": {
+      "message": "\uD31D\uC5C5 \uC6B0\uC120\uC21C\uC704"
+   },
+   "option6": {
+      "message": "\uBC29\uBB38\uBAA9\uB85D"
+   },
+   "option7": {
+      "message": "\uB0A0\uC9DC \uD615\uC2DD"
+   },
+   "option8": {
+      "message": "\uD31D\uC5C5 \uAC80\uC0C9\uBC14 \uBCF4\uAE30"
+   },
+   "option9": {
+      "message": "\uBBF8\uB9AC\uBCF4\uAE30"
+   },
+   "options": {
+      "message": "\uC635\uC158"
+   },
+   "original": {
+      "message": "\uAE30\uBCF8"
+   },
+   "pink": {
+      "message": "\uD551\uD06C"
+   },
+   "pinned": {
+      "message": "\uACE0\uC815"
+   },
+   "recentBookmarks": {
+      "message": "\uCD5C\uADFC \uC990\uACA8\uCC3E\uAE30"
+   },
+   "recentHistory": {
+      "message": "\uCD5C\uADFC \uBC29\uBB38\uBAA9\uB85D"
+   },
+   "recentlyClosedTabs": {
+      "message": "\uCD5C\uADFC \uB2EB\uD78C \uD0ED"
+   },
+   "saturdayLetter": {
+      "message": "\uD1A0"
+   },
+   "saveOptions": {
+      "message": "\uC635\uC158 \uC800\uC7A5"
+   },
+   "saved": {
+      "message": "\uC800\uC7A5\uC644\uB8CC!"
+   },
+   "saving": {
+      "message": "\uC800\uC7A5\uC911..."
+   },
+   "showAllHistory": {
+      "message": "\uBAA8\uB4E0 \uBC29\uBB38\uBAA9\uB85D \uD45C\uC2DC"
+   },
+   "styleOptions": {
+      "message": "\uC2A4\uD0C0\uC77C \uC635\uC158"
+   },
+   "successfullyInstalled": {
+      "message": "\uC778\uC2A4\uD1A8/\uC5C5\uB370\uC774\uD2B8\uAC00 \uC131\uACF5\uC801\uC73C\uB85C \uC644\uB8CC"
+   },
+   "sundayLetter": {
+      "message": "\uC77C"
+   },
+   "thursdayLetter": {
+      "message": "\uBAA9"
+   },
+   "tip1": {
+      "message": "\uD31D\uC5C5: \uD574\uB2F9 \uC544\uC774\uD15C\uC744 Ctrl\uD0A4\uB97C \uB204\uB978 \uC0C1\uD0DC\uC5D0\uC11C \uD074\uB9AD\uD558\uBA74 \uBE44\uD65C\uC131 \uC0C8\uD0ED\uC73C\uB85C \uC5F4\uB9BD\uB2C8\uB2E4."
+   },
+   "tip2": {
+      "message": "\uD1B1\uB2C8\uBC14\uD034 \uC544\uC774\uCF58\uC744 \uD074\uB9AD\uD558\uC2DC\uBA74 \uBAA9\uB85D \uC544\uC774\uD15C\uB4E4\uC758 \uC0AD\uC81C, \uACE0\uC815, \uACF5\uC720\uAC00 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+   },
+   "tip3": {
+      "message": "\uC635\uC158: \uC785\uB825\uB780 \uC120\uD0DD\uC2DC \uBC29\uD5A5\uD0A4 \uC704, \uC544\uB798\uB97C \uB20C\uB7EC \uC22B\uC790 \uC870\uC815\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+   },
+   "tip4": {
+      "message": "\uC635\uC158: Enter\uD0A4\uB97C \uB20C\uB7EC \uD544\uD130\uB9C1 \uB9AC\uC2A4\uD2B8\uC5D0 \uCD94\uAC00\uAC00 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+   },
+   "tip5": {
+      "message": "\uBC29\uBB38\uBAA9\uB85D: Shift\uD0A4\uB97C \uB20C\uB7EC \uB2E4\uC218\uC758 \uC544\uC774\uD15C \uC120\uD0DD\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+   },
+   "tip6": {
+      "message": "\uBC29\uBB38\uBAA9\uB85D: \uD30C\uB780\uC0C9 \uD234\uBC14\uC758 \uBC84\uD2BC\uB4E4\uC744 \uC0AC\uC6A9\uD558\uBA74 \uBC29\uBB38\uBAA9\uB85D \uC544\uC774\uD15C\uB4E4\uC758 \uD45C\uD604 \uBC29\uC2DD\uC744 \uC815\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+   },
+   "tips": {
+      "message": "\uD65C\uC6A9 \uD301"
+   },
+   "totalHistoryItems": {
+      "message": "\uCD1D \uBC29\uBB38\uBAA9\uB85D \uC544\uC774\uD15C:"
+   },
+   "translation1": {
+      "message": "\uB354 \uB098\uC740 \uBC88\uC5ED\uC744 \uBCF4\uB0B4\uC8FC\uC2DC\uBA74 Recent History \uC131\uB2A5 \uAC1C\uC120\uC5D0 \uB9CE\uC740 \uB3C4\uC6C0\uC774 \uB429\uB2C8\uB2E4. \uD574\uB2F9 \uD398\uC774\uC9C0\uB294 \uD655\uC7A5\uAE30\uB2A5 \uBC88\uC5ED\uC758 \uD3B8\uC758\uB97C \uB3D5\uAE30\uC704\uD574 \uB9CC\uB4E4\uC5B4\uC84C\uC2B5\uB2C8\uB2E4"
+   },
+   "translation2": {
+      "message": "Recent History\uB97C \uBC88\uC5ED\uD558\uC2DC\uB824\uBA74 \uC544\uB798\uC758 \uC808\uCC28\uB97C \uB530\uB77C\uC8FC\uC2DC\uAE30 \uBC14\uB78D\uB2C8\uB2E4:"
+   },
+   "translation3": {
+      "message": "\uD574\uB2F9 \uD398\uC774\uC9C0\uC758 \uCD5C\uD558\uB2E8\uAE4C\uC9C0 \uC2A4\uD06C\uB864\uC744 \uB0B4\uB824\uC8FC\uC138\uC694."
+   },
+   "translation4": {
+      "message": "\uC591\uC2DD \uAE30\uC785\uC744 \uC815\uD655\uD788 \uD574\uC8FC\uC2DC\uAE30 \uBC14\uB78D\uB2C8\uB2E4."
+   },
+   "translation5": {
+      "message": "\uBA54\uC2DC\uC9C0 \uBD80\uBD84\uC744 \uB2F9\uC2E0\uC758 \uBAA8\uAD6D\uC5B4\uB85C \uBC88\uC5ED\uD574 \uBC14\uAFD4\uC8FC\uC2DC\uAE30 \uBC14\uB78D\uB2C8\uB2E4."
+   },
+   "translation6": {
+      "message": "'\uC81C\uCD9C' \uBC84\uD2BC\uC744 \uB20C\uB7EC \uC8FC\uC2ED\uC2DC\uC624"
+   },
+   "translation7": {
+      "message": "\uC644\uB8CC!"
+   },
+   "translations": {
+      "message": "\uBC88\uC5ED"
+   },
+   "tuesdayLetter": {
+      "message": "\uD654"
+   },
+   "ui1": {
+      "message": "\uACE0\uC815 \uD569\uB2C8\uAE4C?"
+   },
+   "ui2": {
+      "message": "\uBC29\uBB38\uBAA9\uB85D\uC5D0\uC11C \uC81C\uAC70\uD569\uB2C8\uAE4C?"
+   },
+   "ui3": {
+      "message": "\uCD5C\uADFC \uB2EB\uD78C \uD0ED \uBAA9\uB85D\uC5D0\uC11C \uC81C\uAC70\uD569\uB2C8\uAE4C?"
+   },
+   "ui4": {
+      "message": "\uC990\uACA8\uCC3E\uAE30\uB97C \uD574\uC81C\uD569\uB2C8\uAE4C?"
+   },
+   "ui5": {
+      "message": "\uC790\uC8FC \uBC29\uBB38\uD55C \uBAA9\uB85D\uC5D0\uC11C \uC81C\uAC70\uD569\uB2C8\uAE4C?"
+   },
+   "ui6": {
+      "message": "\uACE0\uC815\uC744 \uD574\uC81C\uD569\uB2C8\uAE4C?"
+   },
+   "version": {
+      "message": "\uBC84\uC804"
+   },
+   "visits": {
+      "message": "\uBC29\uBB38"
+   },
+   "wednesdayLetter": {
+      "message": "\uC218"
+   },
+   "whatsNew": {
+      "message": "\uAC1C\uC120 \uC0AC\uD56D"
+   },
+   "yes": {
+      "message": "\uC608"
+   }
+}

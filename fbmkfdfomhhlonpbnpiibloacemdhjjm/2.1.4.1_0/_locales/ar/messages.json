@@ -1,0 +1,311 @@
+{
+   "12hour": {
+      "message": "12 \u0633\u0627\u0639\u0629"
+   },
+   "24hour": {
+      "message": "24 \u0633\u0627\u0639\u0629"
+   },
+   "AM": {
+      "message": "am"
+   },
+   "PM": {
+      "message": "pm"
+   },
+   "about": {
+      "message": "\u062D\u0648\u0644"
+   },
+   "aboutText": {
+      "message": "This extension displays your recent history, recently closed tabs, most visited pages and recent bookmarks in a one click pop-up."
+   },
+   "advanceOptions": {
+      "message": "\u062E\u064A\u0627\u0631\u0627\u062A \u0645\u062A\u0642\u062F\u0645\u0629"
+   },
+   "allHistory": {
+      "message": "\u0643\u0644 \u0627\u0644\u062A\u0627\u0631\u064A\u062E"
+   },
+   "classic": {
+      "message": "\u0643\u0644\u0627\u0633\u064A\u0643"
+   },
+   "click1": {
+      "message": "\u0641\u062A\u062D \u0641\u064A \u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u062A\u0628\u0648\u064A\u0628 \u0627\u0644\u062D\u0627\u0644\u064A\u0629"
+   },
+   "click2": {
+      "message": "\u0641\u062A\u062D \u0641\u064A \u0639\u0644\u0627\u0645\u0629 \u062A\u0628\u0648\u064A\u0628 \u062C\u062F\u064A\u062F\u0629"
+   },
+   "click3": {
+      "message": "\u0641\u062A\u062D \u0627\u0644\u062A\u0628\u0648\u064A\u0628 \u0627\u0644\u062C\u062F\u064A\u062F \u0641\u064A \u0627\u0644\u062E\u0644\u0641\u064A\u0629"
+   },
+   "currentHistory": {
+      "message": "\u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u062D\u0627\u0644\u064A"
+   },
+   "deleteItems": {
+      "message": "\u062D\u0630\u0641 \u0627\u0644\u0639\u0646\u0627\u0635\u0631"
+   },
+   "fridayLetter": {
+      "message": "F"
+   },
+   "help1": {
+      "message": "The number of recent history items in the pop-up"
+   },
+   "help10": {
+      "message": "The page URL situated below the item title"
+   },
+   "help11": {
+      "message": "The separator situated at the bottom of the item"
+   },
+   "help12": {
+      "message": "The extra information next to the page URL (i.e. visit count and date)"
+   },
+   "help13": {
+      "message": "If activated will display a different colour for different items such as a bookmarked or pinned URL in the recent history and recently closed tabs list"
+   },
+   "help16": {
+      "message": "The URLs you have removed from the most visited list. Click on the cross next to the URL to restore it to the list."
+   },
+   "help17": {
+      "message": "The URLs from the domain names you do not wish to be displayed in the recent history list, e.g. foobar.com"
+   },
+   "help18": {
+      "message": "What should happen when you click on an item in the pop-up"
+   },
+   "help2": {
+      "message": "The number of recently closed tabs in the pop-up"
+   },
+   "help20": {
+      "message": "The format of the time used throughout the extension"
+   },
+   "help21": {
+      "message": "This adds a share icon next to items in the pop-up when editing"
+   },
+   "help3": {
+      "message": "The number of most visited items in the pop-up"
+   },
+   "help4": {
+      "message": "The number of recently bookmarked items in the pop-up"
+   },
+   "help5": {
+      "message": "The order in which the specified items will be shown"
+   },
+   "help6": {
+      "message": "Which history manager you would like to use"
+   },
+   "help7": {
+      "message": "The format of the date used throughout the extension"
+   },
+   "help8": {
+      "message": "The search bar situated at the top of the pop-up"
+   },
+   "loading": {
+      "message": "\u062A\u062D\u0645\u064A\u0644..."
+   },
+   "mainOptions": {
+      "message": "\u062E\u064A\u0627\u0631\u0627\u062A \u0639\u0627\u0645\u0629"
+   },
+   "mondayLetter": {
+      "message": "M"
+   },
+   "mostVisited": {
+      "message": "\u0627\u0644\u0623\u0643\u062B\u0631 \u0632\u064A\u0627\u0631\u0629"
+   },
+   "no": {
+      "message": "\u0644\u0627"
+   },
+   "noResults": {
+      "message": "\u0644\u0627 \u062A\u0648\u062C\u062F \u0646\u062A\u0627\u0626\u062C"
+   },
+   "option1": {
+      "message": "\u0639\u062F\u062F \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u0627\u062E\u064A\u0631"
+   },
+   "option10": {
+      "message": "\u0627\u0638\u0647\u0627\u0631 \u0631\u0627\u0628\u0637"
+   },
+   "option11": {
+      "message": "\u0627\u0638\u0647\u0627\u0631 \u0641\u0627\u0635\u0644"
+   },
+   "option12": {
+      "message": "\u0627\u0638\u0647\u0627\u0631 \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0625\u0636\u0627\u0641\u064A\u0629"
+   },
+   "option13": {
+      "message": "\u0627\u0638\u0647\u0627\u0631 \u0623\u0644\u0648\u0627\u0646 \u0627\u0644\u062E\u0644\u0641\u064A\u0629"
+   },
+   "option14": {
+      "message": "\u0627\u064A\u0642\u0648\u0646\u0629 \u0627\u0644\u0646\u0627\u0641\u0630\u0629 \u0627\u0644\u0645\u0646\u0628\u062B\u0642\u0629"
+   },
+   "option15": {
+      "message": "\u0639\u0631\u0636 \u0627\u0644\u0646\u0627\u0641\u0630\u0629 \u0627\u0644\u0645\u0646\u0628\u062B\u0642\u0629"
+   },
+   "option16": {
+      "message": "\u0627\u0633\u062A\u0639\u0627\u062F\u0629 \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0623\u0643\u062B\u0631 \u0632\u064A\u0627\u0631\u0629"
+   },
+   "option17": {
+      "message": "\u0641\u0644\u062A\u0631\u0647 \u0645\u0648\u0627\u0642\u0639 \u0645\u0646 \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u0623\u062E\u064A\u0631"
+   },
+   "option18": {
+      "message": "\u0639\u0646\u062F \u0627\u0644\u0636\u063A\u0637 \u0628\u064A\u0633\u0627\u0631 \u0627\u0644\u0645\u0627\u0648\u0633"
+   },
+   "option19": {
+      "message": "\u062B\u064A\u0645 \u0627\u0644\u0646\u0627\u0641\u0630\u0629 \u0627\u0644\u0645\u0646\u0628\u062B\u0642\u0629"
+   },
+   "option2": {
+      "message": "\u0639\u062F\u062F \u0639\u0644\u0627\u0645\u0627\u062A \u0627\u0644\u062A\u0628\u0648\u064A\u0628 \u0627\u0644\u0645\u063A\u0644\u0642\u0629 \u0645\u0624\u062E\u0631\u0627"
+   },
+   "option20": {
+      "message": "\u062A\u0646\u0633\u064A\u0642 \u0627\u0644\u0648\u0642\u062A"
+   },
+   "option21": {
+      "message": "\u0631\u0648\u0627\u0628\u0637 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0625\u062C\u062A\u0645\u0627\u0639\u064A\u0629"
+   },
+   "option3": {
+      "message": "\u0639\u062F\u062F \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0627\u0643\u062B\u0631 \u0632\u064A\u0627\u0631\u0629"
+   },
+   "option4": {
+      "message": "\u0639\u062F\u062F \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0645\u0641\u0636\u0644\u0629 \u0645\u0624\u062E\u0631\u0627"
+   },
+   "option5": {
+      "message": "\u062A\u0631\u062A\u064A\u0628 \u0627\u0644\u0646\u0627\u0641\u0630\u0629 \u0627\u0644\u0645\u0646\u0628\u062B\u0642\u0629"
+   },
+   "option6": {
+      "message": "\u0635\u0641\u062D\u0629 \u0627\u0644\u062A\u0627\u0631\u064A\u062E"
+   },
+   "option7": {
+      "message": "\u062A\u0646\u0633\u064A\u0642 \u0627\u0644\u062A\u0627\u0631\u064A\u062E"
+   },
+   "option8": {
+      "message": "\u0623\u0638\u0647\u0631 \u0634\u0631\u064A\u0637 \u0627\u0644\u0628\u062D\u062B \u0641\u064A \u0627\u0644\u0646\u0627\u0641\u0630\u0629\u0627\u0644\u0645\u0646\u0628\u062B\u0642\u0629"
+   },
+   "option9": {
+      "message": "\u0645\u0639\u0627\u064A\u0646\u0629"
+   },
+   "options": {
+      "message": "\u062E\u064A\u0627\u0631\u0627\u062A"
+   },
+   "original": {
+      "message": "\u0627\u0644\u0627\u0635\u0644\u064A"
+   },
+   "pink": {
+      "message": "\u0648\u0631\u062F\u064A"
+   },
+   "pinned": {
+      "message": "\u0645\u062B\u0628\u062A"
+   },
+   "recentBookmarks": {
+      "message": "\u0627\u0644\u0625\u0634\u0627\u0631\u0627\u062A \u0627\u0644\u0645\u0631\u062C\u0639\u064A\u0629 \u0627\u0644\u0623\u062E\u064A\u0631\u0629"
+   },
+   "recentHistory": {
+      "message": "\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u062A\u0635\u0641\u062D \u0627\u0644\u0627\u062E\u064A\u0631"
+   },
+   "recentlyClosedTabs": {
+      "message": "\u0627\u0644\u062A\u0628\u0648\u064A\u0628\u0627\u062A \u0627\u0644\u0645\u063A\u0644\u0642\u0629 \u0645\u0624\u062E\u0631\u0627"
+   },
+   "saturdayLetter": {
+      "message": "S"
+   },
+   "saveOptions": {
+      "message": "\u062D\u0641\u0638 \u0627\u0644\u062E\u064A\u0627\u0631\u0627\u062A"
+   },
+   "saved": {
+      "message": "\u062A\u0645 \u0627\u0644\u062D\u0641\u0638!"
+   },
+   "saving": {
+      "message": "\u062C\u0627\u0631\u064A \u0627\u0644\u062D\u0641\u0638..."
+   },
+   "showAllHistory": {
+      "message": "\u0639\u0631\u0636 \u0643\u0644 \u0627\u0644\u062A\u0627\u0631\u064A\u062E"
+   },
+   "styleOptions": {
+      "message": "\u062E\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u062A\u0627\u064A\u0644"
+   },
+   "successfullyInstalled": {
+      "message": "\u0628\u0646\u062C\u0627\u062D \u062A\u062B\u0628\u064A\u062A / \u062A\u062D\u062F\u064A\u062B"
+   },
+   "sundayLetter": {
+      "message": "S"
+   },
+   "thursdayLetter": {
+      "message": "T"
+   },
+   "tip1": {
+      "message": "Pop-up: You can open an item in a new background tab by left clicking the item while pressing and holding down Ctrl."
+   },
+   "tip2": {
+      "message": "Pop-up: By clicking on the cogs next to the titles you can delete, pin and share items."
+   },
+   "tip3": {
+      "message": "Options: You can press the up and down keys to increase and decrease numerical values when the field is selected."
+   },
+   "tip4": {
+      "message": "Options: You can press Enter to add a domain to the filtered list."
+   },
+   "tip5": {
+      "message": "History: You can use Shift click to select multiple items."
+   },
+   "tip6": {
+      "message": "History: Use the buttons in the blue toolbar to manipulate the way the history items are shown."
+   },
+   "tips": {
+      "message": "\u0646\u0635\u0627\u0626\u062D \u0645\u0641\u064A\u062F\u0629"
+   },
+   "totalHistoryItems": {
+      "message": "\u0645\u062C\u0645\u0648\u0639 \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u062A\u0627\u0631\u064A\u062E:"
+   },
+   "translation1": {
+      "message": "Please help make Recent History better by providing new and better translations for it. This page has been created to make it easier for you to translate this extension."
+   },
+   "translation2": {
+      "message": "\u064A\u0631\u062C\u0649 \u0627\u062A\u0628\u0627\u0639 \u0627\u0644\u062E\u0637\u0648\u0627\u062A \u0627\u0644\u062A\u0627\u0644\u064A\u0629 \u0644\u062A\u0631\u062C\u0645\u0629 \u0625\u0636\u0627\u0641\u0629 \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u0627\u062E\u064A\u0631 \u0625\u0644\u0649 \u0644\u063A\u062A\u0643:"
+   },
+   "translation3": {
+      "message": "\u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0623\u0633\u0641\u0644 \u0647\u0630\u0647 \u0627\u0644\u0635\u0641\u062D\u0629."
+   },
+   "translation4": {
+      "message": "\u062A\u0639\u0628\u0626\u0629 \u0627\u0644\u0646\u0645\u0648\u0630\u062C \u0628\u0634\u0643\u0644 \u0635\u062D\u064A\u062D."
+   },
+   "translation5": {
+      "message": "\u062A\u0631\u062C\u0645\u0629 \u062C\u0645\u064A\u0639 'messages' \u0625\u0644\u0649 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u062A\u064A \u0627\u062E\u062A\u0631\u062A\u0647\u0627."
+   },
+   "translation6": {
+      "message": "\u0627\u0646\u0642\u0631 \u0639\u0644\u0649 \u0632\u0631 ' \u0623\u0631\u0633\u0644'."
+   },
+   "translation7": {
+      "message": "\u062A\u0645!"
+   },
+   "translations": {
+      "message": "\u062A\u0631\u062C\u0645\u0627\u062A"
+   },
+   "tuesdayLetter": {
+      "message": "T"
+   },
+   "ui1": {
+      "message": "\u062B\u0628\u062A \u0639\u0646\u0635\u0631?"
+   },
+   "ui2": {
+      "message": "\u062D\u0630\u0641 \u0639\u0646\u0635\u0631 \u0645\u0646 \u0627\u0644\u062A\u0627\u0631\u064A\u062E?"
+   },
+   "ui3": {
+      "message": "\u062D\u0630\u0641 \u0639\u0646\u0635\u0631 \u0645\u0646 \u0639\u0644\u0627\u0645\u0627\u062A \u0627\u0644\u062A\u0628\u0648\u064A\u0628 \u0627\u0644\u0645\u063A\u0644\u0642\u0629 \u0645\u0624\u062E\u0631\u0627?"
+   },
+   "ui4": {
+      "message": "\u062D\u0630\u0641 \u0627\u0644\u0645\u0641\u0636\u0644\u0629?"
+   },
+   "ui5": {
+      "message": "\u062D\u0630\u0641 \u0639\u0646\u0635\u0631 \u0645\u0646 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0623\u0643\u062B\u0631 \u0632\u064A\u0627\u0631\u0629\u061F"
+   },
+   "ui6": {
+      "message": "\u0627\u0644\u063A\u0627\u0621 \u0627\u0644\u062A\u062B\u0628\u064A\u062A?"
+   },
+   "version": {
+      "message": "\u0627\u0644\u0625\u0635\u062F\u0627\u0631"
+   },
+   "visits": {
+      "message": "\u0627\u0644\u0632\u064A\u0627\u0631\u0627\u062A"
+   },
+   "wednesdayLetter": {
+      "message": "W"
+   },
+   "whatsNew": {
+      "message": "\u0645\u0627 \u0647\u0648 \u0627\u0644\u062C\u062F\u064A\u062F\u061F"
+   },
+   "yes": {
+      "message": "\u0646\u0639\u0645"
+   }
+}

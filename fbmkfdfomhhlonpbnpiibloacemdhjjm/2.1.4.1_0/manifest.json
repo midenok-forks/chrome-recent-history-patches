@@ -1,0 +1,24 @@
+{
+   "background_page": "background.html",
+   "default_locale": "en",
+   "description": "__MSG_aboutText__",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16-other.png",
+      "19": "images/icon19-other.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png",
+      "50": "images/icon50.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC73j7wcO9X7kob+MIkKaCbgumgCkHGkNCVIrfOLkxv05V/mtROgyjl4GFfneiFIYFZoFZElwRjwbROJOCesjSf2r+UzuVqo5ztTopY8URvl4yBrzxbZCbpIFrBnCT1+S7rZMh5Y0HDTYLloC1fAVwwwviyKdbbzACngP/kiz6e0wIDAQAB",
+   "minimum_chrome_version": "5.0",
+   "name": "Recent History",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "images/icon19-blank.png",
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "tabs", "history", "bookmarks", "chrome://favicon/", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.1.4.1"
+}

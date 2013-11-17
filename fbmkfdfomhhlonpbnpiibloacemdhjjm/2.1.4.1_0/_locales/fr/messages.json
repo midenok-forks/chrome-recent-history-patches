@@ -1,0 +1,311 @@
+{
+   "12hour": {
+      "message": "12 Heures"
+   },
+   "24hour": {
+      "message": "24 Heures"
+   },
+   "AM": {
+      "message": "am"
+   },
+   "PM": {
+      "message": "pm"
+   },
+   "about": {
+      "message": "\u00C0 propos"
+   },
+   "aboutText": {
+      "message": "Cette extension affiche votre historique r\u00E9cent, les onglets r\u00E9cement ferm\u00E9s, les pages les plus vist\u00E9es ainsi que vos favoris r\u00E9cents en un seul clic via une fen\u00EAtre popup."
+   },
+   "advanceOptions": {
+      "message": "Param\u00E8tres avanc\u00E9es"
+   },
+   "allHistory": {
+      "message": "Tout l'historique"
+   },
+   "classic": {
+      "message": "Classique"
+   },
+   "click1": {
+      "message": "Ouvrir dans l'onglet"
+   },
+   "click2": {
+      "message": "Ouvrir dans un nouvel onglet"
+   },
+   "click3": {
+      "message": "Ouvrir dans un nouvel onglet d'arri\u00E8re plan"
+   },
+   "currentHistory": {
+      "message": "Date du jour"
+   },
+   "deleteItems": {
+      "message": "Effacer les \u00E9l\u00E9ments"
+   },
+   "fridayLetter": {
+      "message": "V"
+   },
+   "help1": {
+      "message": "Le nombre d'\u00E9l\u00E9ments de l'historique r\u00E9cent s'affichant dans la fen\u00EAtre popup"
+   },
+   "help10": {
+      "message": "L'URL de la page situ\u00E9e en dessous du titre de l'\u00E9l\u00E9ment"
+   },
+   "help11": {
+      "message": "Le s\u00E9parateur situ\u00E9 en dessous de l'\u00E9l\u00E9ment"
+   },
+   "help12": {
+      "message": "Les informations suppl\u00E9mentaires situ\u00E9es \u00E0 c\u00F4t\u00E9 de l'URL de la page (ex: le nombre de visites et la date)"
+   },
+   "help13": {
+      "message": "Si activ\u00E9 cela affichera une couleur diff\u00E9rente pour chaque \u00E9l\u00E9ment comme les URL favorites ou les URL \u00E9pingl\u00E9es. Cela dans l'historique r\u00E9cent ainsi que dans la liste des onglets r\u00E9cemment ferm\u00E9s"
+   },
+   "help16": {
+      "message": "Les URLs que vous avez retir\u00E9 de la liste des liens les plus visit\u00E9s. Cliquez sur la croix \u00E0 c\u00F4t\u00E9 de l'URL pour la restaurer dans la liste"
+   },
+   "help17": {
+      "message": "Les domaines des URLs que vous ne voulez pas les voir affich\u00E9es dans l'historique r\u00E9cent (ex: foobar.com)"
+   },
+   "help18": {
+      "message": "Ce qui doit se passer lorsque vous cliquez sur un \u00E9l\u00E9ment de la fen\u00EAtre popup"
+   },
+   "help2": {
+      "message": "Le nombre d'onglets r\u00E9cement ferm\u00E9s s'affichant dans la fen\u00EAtre popup"
+   },
+   "help20": {
+      "message": "Le format de la date utilis\u00E9 dans cette extension"
+   },
+   "help21": {
+      "message": "Ceci ajoute une ic\u00F4ne de partage \u00E0 c\u00F4t\u00E9 des \u00E9l\u00E9ments de la fen\u00EAtre popup en mode \u00E9dition"
+   },
+   "help3": {
+      "message": "Le nombre d'\u00E9l\u00E9ments les plus visit\u00E9s s'affichant dans la fen\u00EAtre popup"
+   },
+   "help4": {
+      "message": "Le nombre de favoris r\u00E9cents s'affichant dans la fen\u00EAtre popup"
+   },
+   "help5": {
+      "message": "L'ordre dans lequel les \u00E9l\u00E9ments vont s'afficher dans la fen\u00EAtre popup"
+   },
+   "help6": {
+      "message": "Le gestionnaire d'historique que vous voulez utiliser"
+   },
+   "help7": {
+      "message": "Le format de la date utilis\u00E9 dans cette extension"
+   },
+   "help8": {
+      "message": "La barre de recherche situ\u00E9e en haut de la fen\u00EAtre popup"
+   },
+   "loading": {
+      "message": "Chargement..."
+   },
+   "mainOptions": {
+      "message": "Param\u00E8tres principaux"
+   },
+   "mondayLetter": {
+      "message": "L"
+   },
+   "mostVisited": {
+      "message": "Les plus visit\u00E9s"
+   },
+   "no": {
+      "message": "Non"
+   },
+   "noResults": {
+      "message": "Aucun r\u00E9sultat"
+   },
+   "option1": {
+      "message": "Nombre d'\u00E9l\u00E9ments de l'historique r\u00E9cent"
+   },
+   "option10": {
+      "message": "Afficher les URLs"
+   },
+   "option11": {
+      "message": "Afficher le separateur"
+   },
+   "option12": {
+      "message": "Afficher les informations suppl\u00E9mentaires"
+   },
+   "option13": {
+      "message": "Afficher les couleurs d'arri\u00E8re plan"
+   },
+   "option14": {
+      "message": "Ic\u00F4ne de la fen\u00EAtre popup"
+   },
+   "option15": {
+      "message": "Largeur de la fen\u00EAtre popup"
+   },
+   "option16": {
+      "message": "Restaurer les \u00E9l\u00E9ments les plus visit\u00E9s"
+   },
+   "option17": {
+      "message": "Filtrer les domaines de l'historique r\u00E9cent"
+   },
+   "option18": {
+      "message": "Action \u00E0 effectuer lors du clic de la souris"
+   },
+   "option19": {
+      "message": "Th\u00E8me de la fen\u00EAtre popup"
+   },
+   "option2": {
+      "message": "Nombre d'onglets r\u00E9cemment ferm\u00E9s"
+   },
+   "option20": {
+      "message": "Format de l'heure"
+   },
+   "option21": {
+      "message": "Partages des favoris via les r\u00E9seaux sociaux"
+   },
+   "option3": {
+      "message": "Nombre d'\u00E9l\u00E9ments les plus visit\u00E9s"
+   },
+   "option4": {
+      "message": "Nombre d'\u00E9l\u00E9ments r\u00E9cemment mis en favoris"
+   },
+   "option5": {
+      "message": "Ordre des \u00E9l\u00E9ments dans la fen\u00EAtre popup"
+   },
+   "option6": {
+      "message": "Historique"
+   },
+   "option7": {
+      "message": "Format de la date"
+   },
+   "option8": {
+      "message": "Afficher la barre de recherche dans la fen\u00EAtre popup"
+   },
+   "option9": {
+      "message": "Aper\u00E7u"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "original": {
+      "message": "Original"
+   },
+   "pink": {
+      "message": "Rose"
+   },
+   "pinned": {
+      "message": "\u00C9pingl\u00E9"
+   },
+   "recentBookmarks": {
+      "message": "Favoris r\u00E9cents"
+   },
+   "recentHistory": {
+      "message": "Historique r\u00E9cent"
+   },
+   "recentlyClosedTabs": {
+      "message": "Onglets r\u00E9cemment ferm\u00E9s"
+   },
+   "saturdayLetter": {
+      "message": "S"
+   },
+   "saveOptions": {
+      "message": "Enregistrer les param\u00E8tres"
+   },
+   "saved": {
+      "message": "Param\u00E8tres enregistr\u00E9s !"
+   },
+   "saving": {
+      "message": "Enregistrement..."
+   },
+   "showAllHistory": {
+      "message": "Afficher tout l'historique"
+   },
+   "styleOptions": {
+      "message": "Param\u00E8tres d'apparence"
+   },
+   "successfullyInstalled": {
+      "message": "Installation/Mise \u00E0 jour r\u00E9ussie"
+   },
+   "sundayLetter": {
+      "message": "D"
+   },
+   "thursdayLetter": {
+      "message": "J"
+   },
+   "tip1": {
+      "message": "Fen\u00EAtre popup : Vous pouvez ouvrir un \u00E9l\u00E9ment dans un nouvel onglet d'arri\u00E8re plan via Ctrl+Clic"
+   },
+   "tip2": {
+      "message": "Fen\u00EAtre popup : En cliquant sur les engrenages \u00E0 c\u00F4t\u00E9 des nom des \u00E9l\u00E9ments vous pouvez les effacer, les \u00E9pingler et les partager."
+   },
+   "tip3": {
+      "message": "Param\u00E8tres : Vous pouvez utiliser les fl\u00E8ches directionelles haut et bas afin d'agmenter ou de diminuer les valeur num\u00E9riques du champ s\u00E9lectionn\u00E9."
+   },
+   "tip4": {
+      "message": "Param\u00E8tres : Vous pouvez appuyer sur la touche Entr\u00E9e pour ajouter un domaine \u00E0 la liste d'exclusion."
+   },
+   "tip5": {
+      "message": "Historique : Vous pouvez utiliser la touche Majuscule afin de s\u00E9lectionner plusieurs \u00E9l\u00E9ments."
+   },
+   "tip6": {
+      "message": "Historique : Utilisez les boutons dans la barre d'outils bleue afin de changer la fa\u00E7on dont les \u00E9l\u00E9ments de l'historique sont affich\u00E9s."
+   },
+   "tips": {
+      "message": "Astuces"
+   },
+   "totalHistoryItems": {
+      "message": "Nombre total d'\u00E9l\u00E9ment dans l'historique :"
+   },
+   "translation1": {
+      "message": "S'il vous plait veuillez nous aider \u00E0 rendre 'Recent History' meilleur en fournissant de nouvelles et meilleures traductions. Cette page a \u00E9t\u00E9 cr\u00E9\u00E9e afin de rendre plus facile la traduction de cette extension."
+   },
+   "translation2": {
+      "message": "Veuillez suivre les \u00E9tapes indiqu\u00E9es ci-dessous afin de traduire 'Recent History' dans votre langage :"
+   },
+   "translation3": {
+      "message": "Allez en bas de cette page."
+   },
+   "translation4": {
+      "message": "Remplissez le formulaire correctement."
+   },
+   "translation5": {
+      "message": "Traduisez tous les 'messages' dans le langage choisi."
+   },
+   "translation6": {
+      "message": "Cliquez sur le bouton 'Soumettre'."
+   },
+   "translation7": {
+      "message": "Termin\u00E9 !"
+   },
+   "translations": {
+      "message": "Traductions"
+   },
+   "tuesdayLetter": {
+      "message": "M"
+   },
+   "ui1": {
+      "message": "\u00C9pingler l'\u00E9l\u00E9ment ?"
+   },
+   "ui2": {
+      "message": "Effacer l'\u00E9l\u00E9ment de l'historique ?"
+   },
+   "ui3": {
+      "message": "Effacer l'\u00E9l\u00E9ment des onglets r\u00E9cemment ferm\u00E9s ?"
+   },
+   "ui4": {
+      "message": "Effacer le favori ?"
+   },
+   "ui5": {
+      "message": "Effacer l'\u00E9l\u00E9ment des pages les plus visit\u00E9es ?"
+   },
+   "ui6": {
+      "message": "D\u00E9tacher ?"
+   },
+   "version": {
+      "message": "Version"
+   },
+   "visits": {
+      "message": "Visites"
+   },
+   "wednesdayLetter": {
+      "message": "M"
+   },
+   "whatsNew": {
+      "message": "Quoi de neuf ?"
+   },
+   "yes": {
+      "message": "Oui"
+   }
+}
